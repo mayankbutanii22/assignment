@@ -1,0 +1,105 @@
+body{
+   width: 100%;
+   height: 100%;
+}
+nav{
+   padding: 0px 50px;
+   margin-top: 0px;
+   position: fixed;
+   top: 0px;
+   background-color: white;
+}
+.overflow{
+   width: 80%;
+   overflow-y: scroll;
+}
+.container{
+   max-width: 80%;
+   margin: none;
+}
+nav ul li{
+   list-style: none;
+   padding: 0px 20px;
+   font-size: 15px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.new{
+   color: hotpink;
+}
+.flex{
+   display: flex;
+}
+.xx-2{
+   margin-top: 13px;
+   margin-left: 50px;
+   position: relative;
+   left: 80px;   
+}
+.tone{
+   margin-top: 20px;
+}
+.ttwo{
+   font-size: 30px;
+   position: relative;
+   background-color: hotpink;
+   width: 20%;
+   left: 1150px;
+   bottom: 350px;
+}
+.iframe{
+   color: red;
+   font-size: 20px;
+   font-weight: bolder;
+   margin-bottom: 100px;
+   margin-left: 100px;
+   word-spacing: 10px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ione,.itwo,.ithree,.ifour,.ifive{
+   width: 300px;
+   height: 300px;
+   float: left;
+   margin-bottom: 120px;
+}
+.aone,.atwo,.athree,.afour,.afive{
+   width: 300px;
+   height: 300px;
+   float: left;
+   margin-bottom: 170px; 
+} 
+.design{
+   color: red;
+   font-size: 20px;
+   font-weight: bolder;
+   word-spacing: 10px;
+   margin-left: 100px;
+   margin-bottom: 100px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+.room1,.room2,.room3,.room4,.room5{
+   width: 300px;
+   height: 300px;
+   float: left;
+   margin-bottom: 120px;
+}
+.lecture1,.lecture2,.lecture3,.lecture4,.lecture5{
+   width: 300px;
+   height: 300px;
+   float: left;
+   margin-bottom: 150px;
+}
+.color1,.color2,.color3,.color4,.color5,.color6,.color7,.color8,.color9,.color10,.color11,.color12,.color13,.color14,.color15,.color16,.color17,.color18,.color19,.color20,.color21,.color22,.color23,.color24,.color25,.color26,.color27,.color28{
+   width: 250px;
+   height: 390px;
+   color: white;
+   margin: 18px;
+   float: left;
+   border: 8px solid darkmagenta;
+   background-color: darkmagenta;
+   margin-bottom: 20px;
+} 
+.color26,.color27,.color28{
+   position: relative;
+   left: 300px;
+   margin-bottom: 400px;
+}

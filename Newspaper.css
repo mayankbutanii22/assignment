@@ -1,0 +1,35 @@
+
+.heading{
+    text-align: center;
+}
+.a{
+    width: 200px;
+    height: 200px;
+    float:inline-start;
+}
+.Haasan{
+    border:1px solid black;
+    width: 300px;
+    background-color: coral;
+    color: white;
+    display: inline;
+    float:inline-start;
+}
+.Mallya{
+    border: 1px solid black;
+    width: 300px;
+    background-color:palevioletred;
+    display: inline;
+    float:inline-start;
+}
+.b{
+    width: 200px;
+    height: 200px;
+    float:inline-start;    
+}
+span{
+    background-color: yellow;
+}
+.span{
+    background-color: red;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color:white;
+}
+.box{
+    color: red;
+    background-image:url("https://samacharnama.com/static/c1e/client/79965/uploaded/c461311aa4882db5bb6a9fd0a7c114be.jpg?width=730&height=480&resizemode=4");
+    background-repeat:no-repeat;    
+    background-size:1200px;
+    background-position:center;
+    background-attachment:fixed;
+    background-blend-mode: darken;
+    border: 1px solid seagreen;
+    text-align: left;
+    margin: 10px;
+    padding: 10px; 
+}
+.image-mode{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALQgP_u_bvfxC9n-nah-PoiBYNuvISD07bA&usqp=CAU"),linear-gradient(blue,yellow,green);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+    border: 1px solid seagreen;
+    margin: 10px;
+    padding: 10px;
+    height: 800px;
+}

@@ -1,0 +1,15 @@
+.box{
+    color: blue;
+    border: 5px solid black;
+    height: 200px;
+    width: 20%;
+}
+.image{
+    border: 5px solid black;
+    width: 20%;
+    display: inline-block;
+}
+.room{
+    color: blue;
+    display: inline-block;
+}
